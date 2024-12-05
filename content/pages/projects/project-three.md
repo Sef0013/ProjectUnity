@@ -4,10 +4,7 @@ title: One more cool project
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but definitely I followed a lead most
-  of the time.
+description: 'Probably because I worked with an entire team :) '
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
