@@ -19,15 +19,7 @@
                 "url": "/projects"
             }
         ],
-        "socialLinks": [
-            {
-                "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "",
-                "icon": "github"
-            }
-        ],
+        "socialLinks": [],
         "styles": {
             "self": {
                 "width": "full"
