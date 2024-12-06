@@ -30,7 +30,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/I.d Picture Sef - copy.png
       altText: Hero image
       caption: Caption of the image
       elementId: ''
