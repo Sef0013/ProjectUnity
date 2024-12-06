@@ -28,12 +28,6 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-    media:
-      type: ImageBlock
-      url: /images/I.d Picture Sef - copy.png
-      altText: Hero image
-      caption: Caption of the image
-      elementId: ''
     colors: colors-c
     backgroundSize: full
     elementId: ''
