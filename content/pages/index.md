@@ -102,7 +102,7 @@ sections:
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-4.jpg
+        url: /images/I.d Picture Sef - copy.png
         altText: Image four
         caption: Image four caption
         elementId: ''
