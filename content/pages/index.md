@@ -83,4 +83,5 @@ sections:
         justifyContent: flex-end
     subtitle: Projects
 addTitleSuffix: true
+socialImage: /images/contact.jpg
 ---
