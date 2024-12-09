@@ -7,7 +7,7 @@ client: Awesome client
 description: It’s hard to imagine
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/post-3.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
