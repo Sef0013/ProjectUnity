@@ -153,13 +153,6 @@ sections:
           placeholder: Your email
           width: 1/2
           isRequired: true
-        - type: TextFormControl
-          name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          width: 1/2
-          isRequired: 'true'
         - type: TextareaFormControl
           name: message
           label: Tell me about your project
@@ -167,6 +160,13 @@ sections:
           placeholder: Tell me about your project
           width: full
           isRequired: true
+        - type: TextFormControl
+          name: name
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          width: 1/2
+          isRequired: 'true'
         - type: CheckboxFormControl
           name: updates
           label: Sign me up to receive updates
