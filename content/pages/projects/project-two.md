@@ -7,7 +7,7 @@ client: Awesome client
 description: Definitely followed my lead most of the time.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/contact.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
