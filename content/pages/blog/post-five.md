@@ -2,7 +2,7 @@
 type: PostLayout
 title: AI are so hot right now
 colors: colors-a
-date: '2024-12-02'
+date: '2024-12-09'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
