@@ -4,7 +4,7 @@ title: Another cool project
 colors: colors-a
 date: '2024-12-07'
 client: Awesome client
-description: Definitely followed my lead most of the time.
+description: Definitely followed a lead most of the time.
 featuredImage:
   type: ImageBlock
   url: /images/contact.jpg
