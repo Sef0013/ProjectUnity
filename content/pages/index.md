@@ -82,4 +82,5 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Projects
+addTitleSuffix: true
 ---
