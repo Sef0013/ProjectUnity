@@ -90,7 +90,7 @@ sections:
       - type: Link
         label: Learn more
         altText: ''
-        url: ''
+        url: 'https://www.google.com/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
