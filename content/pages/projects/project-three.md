@@ -7,7 +7,7 @@ client: Awesome client
 description: 'Probably because I worked with an entire team :) '
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/gallery-1.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
