@@ -14,4 +14,3 @@ media:
   url: /images/bg2.jpg
   altText: Project image
 ---
-<https://isaiahseraphimproj.wixsite.com/0001>
