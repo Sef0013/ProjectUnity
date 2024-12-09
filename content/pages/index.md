@@ -146,13 +146,6 @@ sections:
       type: FormBlock
       title: Title of the form
       fields:
-        - type: TextFormControl
-          name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          width: 1/2
-          isRequired: 'true'
         - type: EmailFormControl
           name: email
           label: Name
@@ -160,6 +153,13 @@ sections:
           placeholder: Your email
           width: 1/2
           isRequired: true
+        - type: TextFormControl
+          name: name
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          width: 1/2
+          isRequired: 'true'
         - type: TextareaFormControl
           name: message
           label: Tell me about your project
