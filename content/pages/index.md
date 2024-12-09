@@ -93,7 +93,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
-    colors: colors-d
+    colors: colors-f
     variant: variant-d
     elementId: ''
     recentCount: 3
