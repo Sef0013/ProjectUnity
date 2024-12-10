@@ -15,6 +15,7 @@ media:
   altText: Project image
   elementId: Test image
 addTitleSuffix: true
+socialImage: /images/bg2.jpg
 ---
 > ![](/images/random-image.png)“Everybody should learn to program a computer, because it teaches you how to think.”
 
