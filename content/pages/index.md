@@ -185,4 +185,8 @@ sections:
         textAlign: center
 addTitleSuffix: true
 socialImage: /images/contact.jpg
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
