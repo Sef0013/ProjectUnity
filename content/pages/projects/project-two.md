@@ -24,6 +24,6 @@ featuredImage:
     rel="stylesheet" href="shared_vars.css">  </body></html>
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/For web - zero.png
   altText: Project image
 ---
