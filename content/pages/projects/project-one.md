@@ -11,7 +11,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /[images/bg1.jpg](https://app.clickup.com/9016643478/v/o/s/90162350326)\\
   altText: Project image
 ---
 
