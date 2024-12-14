@@ -11,7 +11,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/Online - Sef.png
+  url: /images/about.jpg
   altText: Project image
   elementId: Test image
 addTitleSuffix: true
