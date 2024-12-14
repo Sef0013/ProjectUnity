@@ -11,7 +11,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /[images/bg1.jpg](https://app.clickup.com/9016643478/v/o/s/90162350326)\\
+  url: /images/For web - zero.png
   altText: Project image
 ---
 ## [*Everybody should learn to program a computer, because it teaches you how to think.”*](https://sef-projects.my.canva.site/001)
